@@ -1,5 +1,5 @@
 # Simulation-of-CW-radar-wave-and-2DFFT-for-Velocity-detection
-Simulation of CW radar wave and 2DFFT for Velocity detection
+Simulation of CW radar wave and 2D FFT for Velocity detection
 
 ---------------------------------------
     2DFFT for Velocity Ddetection. 
